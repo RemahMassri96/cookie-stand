@@ -1,0 +1,34 @@
+body {
+    width: 950px;
+    justify-content: center;
+    margin: auto;
+    background-color: lightgrey;
+  }
+  
+  h1 {
+    font-family: 'Anonymous Pro';
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+    font-weight: bold;
+    color: salmon;
+    font-size: 32px;
+  }
+  
+  #salmonTable{
+    border: salmon 15px ridge;
+  
+  }
+  fieldset {
+    border: salmon 15px ridge;
+    width: 60%;
+    justify-content: center;
+    margin: auto;
+  }
+  
+  table, tr, th, td {
+     border: 1px salmon solid;
+     border-radius: 5%;
+  }
+  
+  
