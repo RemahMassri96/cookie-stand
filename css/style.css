@@ -8,7 +8,7 @@
     position: fixed;
     z-index: 1;
     padding: 25 px;
-    background-image: url("../img/chalkboard.jpg");
+    background-image: url("../images/chalkboard.jpg");
     font-family: 'Fredericka the Great';
     padding: 28px;
   }
@@ -60,13 +60,13 @@
     position: fixed;
     z-index: 1;
     padding: 25px;
-    background-image: url("../img/chalkboard.jpg");
+    background-image: url("../images/chalkboard.jpg");
     font-family: 'Fredericka the Great'
   }
   
   
   body {
-    background-image:url("../img/salmonbg.jpg");
+    background-image:url("../images/salmonbg.jpg");
     height:50%;
     width: 50%;
     position: relative;
